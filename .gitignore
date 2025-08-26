@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# expo
+.expo
+.expo-shared
+
+# macOS
+.DS_Store
+
+# android/ios build
+android/
+ios/
+build/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
