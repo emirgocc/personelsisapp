@@ -17,13 +17,14 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+          "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/adaptive-icon.png",
+          "backgroundColor": "#FFFFFF"
+        },
+        "package": "com.emirgoc.personelsisapp",
+        "usesCleartextTraffic": true
       },
-      "package": "com.emirgoc.personelsisapp"
-    },
     "web": {
       "favicon": "./assets/favicon.png"
     },
