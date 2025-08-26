@@ -23,7 +23,8 @@
           "backgroundColor": "#FFFFFF"
         },
         "package": "com.emirgoc.personelsisapp",
-        "usesCleartextTraffic": true
+        "usesCleartextTraffic": true,
+        "networkSecurityConfig": "./android/app/src/main/res/xml/network_security_config.xml"
       },
     "web": {
       "favicon": "./assets/favicon.png"
